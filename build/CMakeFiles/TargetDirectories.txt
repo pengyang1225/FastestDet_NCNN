@@ -1,0 +1,3 @@
+/media/py/8ee085fc-6bf0-41db-8bee-dbf383701c5c/code/git/FastestDet_NCNN/build/CMakeFiles/edit_cache.dir
+/media/py/8ee085fc-6bf0-41db-8bee-dbf383701c5c/code/git/FastestDet_NCNN/build/CMakeFiles/FastestDet.dir
+/media/py/8ee085fc-6bf0-41db-8bee-dbf383701c5c/code/git/FastestDet_NCNN/build/CMakeFiles/rebuild_cache.dir
